@@ -26,9 +26,20 @@ body {
     font-weight: bold;
 }
 
-#texto-boas-vindas{
+#roxo {
     font-size: 30px;
     color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.final {
+    font-size: 30px;
+    color:mediumturquoise ;
+}
+
+#texto-boas-vindas{
+    font-size: 30px;
+    color: blanchedalmond;
     font-family: 'Courier New', Courier, monospace;
 }
 
@@ -43,7 +54,7 @@ h1 {
     font-family: 'Georgia', serif;
 }
 h1:hover{
-    color:#f0f8ff;
+
     font-size: 50px;
     cursor: pointer;
 }
@@ -58,5 +69,4 @@ ul {
     text-align: left;
     max-width: 300px;
     margin: 0 auto;
-    color: ;
 }
